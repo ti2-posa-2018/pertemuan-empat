@@ -1,0 +1,9 @@
+1. memungkinkan kita untuk menyusun serangkaian perintah seperti halnya bahasa pemrograman (interpreter language), melakukan proses I/O, menyeleksi kondisi, looping, membuat fungsi, dsb. adalah proses - proses yang umumnya dilakukan oleh suatu bahasa pemrograman, jadi dengan shell di linux kita dapat membuat program seperti halnya bahasa pemrograman, untuk pemrograman shell pemakai unix atau linux menyebutnya sebagai script shell.
+
+2.
+Editor vi
+-kelebihan : yaitu memiliki banyak feature-feature yang sangat menarik sehingga sangat membantu untuk lebih cepat dalam mengedit file.
+-kekurangan : yaitu belum ada fasilitas “read file”, seperti nano. Karena nano ada ctrl + r, ini merupakan hal yang penting dalam editor untuk membuat config baru.
+Libreoffice
+-Kelebihan :Kompatibilitas file. LibreOffice.org mempunyai kemampuan untuk mengekspor dokumen ke format PDF dan flash. Selain itu juga dapat digunakan untuk membuka dan menyimpan file dalam format MS. Office, HTML, XML, Wordprefect dan Lotus123
+-Kekuragan : Tidak memiliki banyak feature-feature yang sangat menarik sehingga sangat membantu untuk lebih cepat dalam mengedit file.
